@@ -5,7 +5,7 @@ The paper _A Study of Search User Interface Design Based on Hofstede’s Six Cul
 
 ## Designs
 
-Below are the different example designs mentioned in Section 3 of the paper.
+Below are examples of the designs mentioned in Section 3 and 4 of the paper.
 
 
 ### Power Distance (PD)
