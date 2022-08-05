@@ -1,7 +1,7 @@
 # A Study of Search User Interface Design Based on Hofstede’s Six Cultural Dimensions
 Additional UI files for Chessum et al: A Study of Search User Interface Design Based on Hofstede’s Six Cultural Dimensions.
 
-The paper _A Study of Search User Interface Design Based on Hofstede’s Six Cultural Dimensions_ by Karen Chessum, Haiming Liu and Ingo Frommholz mentions several UI design examples that could not be accommodated in the paper due to space restrictions. You can view and download these designs from the UIDesignImages folder.
+The paper _A Study of Search User Interface Design Based on Hofstede’s Six Cultural Dimensions_ by Karen Chessum, Haiming Liu and Ingo Frommholz mentions several prototype UI design examples that could not be accommodated in the paper due to space restrictions. You can view and download these designs from the UIDesignImages folder.
 
 ## Designs
 
@@ -53,3 +53,5 @@ UI 11 - High IND
 
 UI 12 - Low IND
 ![UI12](UIDesignImages/UI12-IndulgenceLow.JPG)
+
+Images used to create the UIs: Pixabay (2021). Stunning free images & royalty free stock. Available at: https://pixabay.com/
